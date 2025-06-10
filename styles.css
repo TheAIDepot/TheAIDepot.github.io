@@ -264,7 +264,7 @@ header .container {
     display: flex;
     align-items: center;
     text-align: center;
-    padding-top: 80px; /* Account for fixed header */
+    padding-top: 95px; /* Account for fixed header */
 }
 
 .hero h1 {
